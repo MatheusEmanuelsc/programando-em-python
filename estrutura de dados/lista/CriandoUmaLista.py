@@ -1,5 +1,6 @@
 
 # criando uma lista
+# lista e tudo dentro de parenteses
 
 nomes=['jao','bao','zao','tao',"vao"];
 
@@ -16,3 +17,6 @@ print(nomes[0]);
 #retorna o numero de posições
 
 print(len(nomes));
+
+
+#pode criar dicionarios dentro da lista
